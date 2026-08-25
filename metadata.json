@@ -1,0 +1,10 @@
+{
+  "name": "Football Penalty Shootout",
+  "description": "AI-powered webcam and swipe football penalty shootout with real-time goalkeeper physics, Gemini tactical coaching, and stadium action.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
